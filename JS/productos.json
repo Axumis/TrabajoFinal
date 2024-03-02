@@ -1,0 +1,72 @@
+[
+    {
+        "id":1,
+        "nombre": "Remera rayada", 
+        "precio": 12000, 
+        "cantidad":1, 
+        "img": "remera italy.png"
+    },
+
+    {
+        "id":2, 
+        "nombre": "Remera negra",
+        "precio": 9000, 
+        "cantidad":1, 
+        "img": "remera M.png"
+    },
+
+    {
+        "id":3, 
+        "nombre": "Remera S39A", 
+        "precio": 15000, 
+        "cantidad":1, 
+        "img": "remera s39a.png"
+    },
+
+    {
+        "id":4, 
+        "nombre": "Pantalon cargo", 
+        "precio": 25000, 
+        "cantidad":1, 
+        "img": "cargo.png"
+    },
+
+    {
+        "id":5, 
+        "nombre": "Jean clásico", 
+        "precio": 39000, 
+        "cantidad":1, 
+        "img": "Jean1.png"
+    },
+
+    {
+        "id":6,
+        "nombre": "Pantalon formal",
+        "precio": 40000,
+        "cantidad":1,
+        "img": "Pantalon de vestir.png"
+    },
+
+    {
+        "id":7, 
+        "nombre": "Short deportivo", "precio": 10500, 
+        "cantidad":1, 
+        "img": "Short deportivo.png"
+    },
+
+    {
+        "id":8, 
+        "nombre": "Bermuda vaquero", 
+        "precio": 15000, 
+        "cantidad":1, 
+        "img": "Bermuda de jean.png"
+    },
+
+    {
+        "id":9, 
+        "nombre": "Bermuda caqui", 
+        "precio": 17000, 
+        "cantidad":1, 
+        "img": "bermuda caqui.png"
+    }
+]
